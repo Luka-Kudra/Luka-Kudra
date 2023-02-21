@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+I'm Luka Kudra and I'm a Front-End Developer.
+I am passionate about creating responsive, feature-rich websites with a great user experience.
 
 <!--
 **Luka-Kudra/Luka-Kudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
