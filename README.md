@@ -4,7 +4,7 @@ I am passionate about creating responsive, feature-rich websites with a great us
 I focused on my designs and project after project i continued to improve myself.
 
 #Programming languages I use
-<img align="left" src="![image](https://user-images.githubusercontent.com/89598900/220434671-6e66842b-7003-4d7c-9fe7-8a3e94be262e.png)">
+<img align="left" src="https://user-images.githubusercontent.com/89598900/220434716-055d1b86-d240-4aaa-84b5-35e3825d0f5d.png">
 
 <!--
 **Luka-Kudra/Luka-Kudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
