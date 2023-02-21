@@ -3,7 +3,7 @@ I'm Luka Kudra and I'm a Front-End Developer.
 I am passionate about creating responsive, feature-rich websites with a great user experience.I am a self-tought developer coding over a year. 
 I focused on my designs and project after project i continued to improve myself.
 
-#Programming languages I use
+##Programming languages I use
 
 
 <img align="left" width="50px" src="https://user-images.githubusercontent.com/89598900/220434716-055d1b86-d240-4aaa-84b5-35e3825d0f5d.png">
