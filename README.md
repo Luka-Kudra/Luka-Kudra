@@ -1,6 +1,10 @@
 ### Hi there 
 I'm Luka Kudra and I'm a Front-End Developer.
-I am passionate about creating responsive, feature-rich websites with a great user experience.
+I am passionate about creating responsive, feature-rich websites with a great user experience.I am a self-tought developer coding over a year. 
+I focused on my designs and project after project i continued to improve myself.
+
+#Programming languages I use
+<img align="left" src="https://www.pngfind.com/pngs/m/683-6834215_html-css-js-icon-hd-png-download.png" >
 
 <!--
 **Luka-Kudra/Luka-Kudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
