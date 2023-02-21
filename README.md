@@ -6,7 +6,7 @@ I focused on my designs and project after project i continued to improve myself.
 #Programming languages I use
 
 
-<img align="left" width="30px" src="https://user-images.githubusercontent.com/89598900/220434716-055d1b86-d240-4aaa-84b5-35e3825d0f5d.png">
+<img align="left" width="50px" src="https://user-images.githubusercontent.com/89598900/220434716-055d1b86-d240-4aaa-84b5-35e3825d0f5d.png">
 
 <!--
 **Luka-Kudra/Luka-Kudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
