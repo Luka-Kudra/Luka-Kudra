@@ -1,23 +1,10 @@
-### Hi there 
-I'm Luka Kudra and I'm a Front-End Developer.
-I am passionate about creating responsive, feature-rich websites with a great user experience.I am a self-tought developer coding over a year. 
-I focused on my designs and project after project i continued to improve myself.
+# About Me:
+Hi there<br>I'm Luka Kudra and I'm a Front-End Developer. I am passionate about creating responsive, feature-rich websites with a great user experience. I am a self-taught developer coding for over a year. I focused on my designs and project after project I continued to improve myself.
 
-<b>Programming languages I use</b>
 
-<img align="left" width="50px" src="https://user-images.githubusercontent.com/89598900/220434716-055d1b86-d240-4aaa-84b5-35e3825d0f5d.png">
+# Tools I use:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+---
+[![](https://visitcount.itsvg.in/api?id=Luka-Kudra&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!--
-**Luka-Kudra/Luka-Kudra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
