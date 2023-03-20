@@ -11,3 +11,4 @@ Hi there<br>I'm Luka Kudra and I'm a Front-End Developer. I am passionate about 
 ## Github stats:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luka-Kudra&theme=dark&border_radius=20)](https://git.io/streak-stats)
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)
