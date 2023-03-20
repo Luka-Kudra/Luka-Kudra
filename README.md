@@ -10,4 +10,4 @@ Hi there<br>I'm Luka Kudra and I'm a Front-End Developer. I am passionate about 
 
 ## Github stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-Kudra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luka-Kudra&theme=dark&border_radius=20)](https://git.io/streak-stats)
