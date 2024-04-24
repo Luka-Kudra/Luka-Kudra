@@ -9,4 +9,6 @@ Hi there<br>I'm Luka Kudra and I'm a Front-End Developer. I am passionate about 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Github stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luka-kudra&show_icons=true&locale=en&layout=compact" alt="luka-kudra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka-Kudra&show_icons=true&locale=en&layout=compact" alt="Luka-Kudra" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luka-Kudra)](https://github.com/Luka-Kudra/github-readme-stats)
