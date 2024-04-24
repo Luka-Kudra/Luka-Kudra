@@ -11,4 +11,3 @@ Hi there<br>I'm Luka Kudra and I'm a Front-End Developer. I am passionate about 
 ## Github stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luka-Kudra&show_icons=true&locale=en&layout=compact" alt="Luka-Kudra" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luka-Kudra)]
